@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LazyEagerExplicitLoadingApp1", "LazyEagerExplicitLoadingApp1\LazyEagerExplicitLoadingApp1.csproj", "{709C7700-8CB6-4D21-867E-5BD8090D97FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{709C7700-8CB6-4D21-867E-5BD8090D97FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{709C7700-8CB6-4D21-867E-5BD8090D97FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{709C7700-8CB6-4D21-867E-5BD8090D97FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{709C7700-8CB6-4D21-867E-5BD8090D97FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08FC83E4-CDC9-45DF-8DBF-4B8A29E2D70A}
+	EndGlobalSection
+EndGlobal
